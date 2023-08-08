@@ -17,11 +17,11 @@
 
 ## 翻译：
 
-* [English](../README.md)
+* [English](../translations/README-en.md)
 * [Español](../translations/README-es.md)
 * [Français](../translations/README-fr.md)
 * [Português do Brasil](../translations/README-pt_BR.md)
-* [中文版](../translations/README-cn.md)
+* [中文版](../README.md)
 * [日本語](../translations/README-ja.md)
 * [한국어](../translations/README-ko.md)
 * [Turkish](../translations/README-tr.md)
