@@ -14,25 +14,6 @@
     </p>
 </p>
 
-
-## 翻译：
-
-* [English](../translations/README-en.md)
-* [Español](../translations/README-es.md)
-* [Français](../translations/README-fr.md)
-* [Português do Brasil](../translations/README-pt_BR.md)
-* [中文版](../README.md)
-* [日本語](../translations/README-ja.md)
-* [한국어](../translations/README-ko.md)
-* [Turkish](../translations/README-tr.md)
-* [Greek](../translations/README-gr.md)
-* [Magyar](../translations/README-hu.md)
-* [Polish](../translations/README-pl.md)
-* [Русский](../translations/README-ru.md)
-* [Tiếng Việt](../translations/README-vn.md)
-* [فارسی](../translations/README-fa.md)
-* [עברית](translations/README-he.md)
-
 ## 什么是正则表达式？
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/learn-regex)
